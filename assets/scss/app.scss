@@ -1,0 +1,23 @@
+//Fonts
+@import "custom/fonts/fonts";
+
+//Core files
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/variables";
+@import "variables";
+@import "./node_modules/bootstrap/scss/mixins.scss";
+@import "bootstrap";
+
+@import "./custom";
+
+// Structure
+@import "custom/structure/general";
+@import "custom/structure/topbar";
+@import "custom/structure/page-head";
+@import "custom/structure/footer";
+@import "custom/structure/horizontal-nav";
+@import "custom/structure/layouts";
+
+@import "custom/plugins/datepicker";
+@import "custom/plugins/apexcharts";
+@import "custom/plugins/bootstrap-touchspin";
