@@ -27,7 +27,8 @@
     "vuex-persist": "^2.2.0"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
-    "sass-loader": "^9.0.3"
+    "fibers": "^5.0.1",
+    "sass": "^1.50.0",
+    "sass-loader": "10"
   }
 }
